@@ -2063,6 +2063,16 @@ body:not(.post-template) .post-title {
     }
 }
 
+pre {
+  word-wrap: normal;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  -webkit-hyphens: none;
+  hyphens: none;
+}
+pre code, pre tt {
+  white-space: pre;
+}
 
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff

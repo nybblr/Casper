@@ -2078,6 +2078,10 @@ pre code, pre tt {
   white-space: pre;
 }
 
+.post a {
+  text-decoration: none;
+}
+
 .post-content a {
   text-decoration: none;
   color: darkgoldenrod;
